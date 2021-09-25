@@ -1,0 +1,23 @@
+.Pokecard {
+    width: 10vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(177, 177, 177);
+    border-radius: 10%;
+    padding: 4%;
+    margin: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.Pokecard-header {
+    margin: 0;
+    color: blue;
+}
+
+.Pokecard-details {
+    margin: 0;
+    font-size: small;
+    color: white;
+}
